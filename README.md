@@ -1,4 +1,4 @@
-![](netflix_gif_optimized.gif)
+![](app_gif/netflix_gif_optimized.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
